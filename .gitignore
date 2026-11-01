@@ -1,0 +1,22 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python cache files created by validation scripts
+__pycache__/
+*.py[cod]
+
+# Local logs and temporary files
+*.log
+*.tmp
+
+# Local development-agent workspace
+.superpowers/
+docs/superpowers/
